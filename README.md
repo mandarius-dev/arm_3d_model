@@ -19,21 +19,21 @@ All of the 3D model where design in Blender and with the help of the `3D-Print T
 Below is some visual instruction of how to assemble the manipulator. Some scrows are necesary to attached some of the pieces together. It is higly recomended to look around the pieces and at the visual instructions in order to have a smooth assembly.
 
 ### Link 1
-<img src="https://github.com/mandarius-dev/arm_3d_model/blob/main/media/link1.gif" width="200" >
+<img src="https://github.com/mandarius-dev/arm_3d_model/blob/main/media/link1.gif" width="400" >
 
 ### Link 2
-![link2](https://github.com/mandarius-dev/arm_3d_model/blob/main/media/link2.gif)
+<img src="https://github.com/mandarius-dev/arm_3d_model/blob/main/media/link2.gif" width="400" >
 The motor support has been design to hold a 60 kg servomotor.
 
 ### Link 3
-![link3](https://github.com/mandarius-dev/arm_3d_model/blob/main/media/link3.gif)
+<img src="https://github.com/mandarius-dev/arm_3d_model/blob/main/media/link3.gif" width="400" >
 The rectangular holes in the pieces are used to hold the servomotors.
 
 ### Link 4
-![link4](https://github.com/mandarius-dev/arm_3d_model/blob/main/media/link4.gif)
+<img src="https://github.com/mandarius-dev/arm_3d_model/blob/main/media/link4.gif" width="400" >
 
 ### Link 5 and 6
-![link56](https://github.com/mandarius-dev/arm_3d_model/blob/main/media/link_5_6.gif)
+<img src="https://github.com/mandarius-dev/arm_3d_model/blob/main/media/link_5_6.gif" width="400" >
 
 
 ### Models: 
