@@ -19,7 +19,7 @@ All of the 3D model where design in Blender and with the help of the `3D-Print T
 Below is some visual instruction of how to assemble the manipulator. Some scrows are necesary to attached some of the pieces together. It is higly recomended to look around the pieces and at the visual instructions in order to have a smooth assembly.
 
 ### Link 1
-![link1](https://github.com/mandarius-dev/arm_3d_model/blob/main/media/link1.gif)
+<img src="https://github.com/mandarius-dev/arm_3d_model/blob/main/media/link1.gif" width="200" >
 
 ### Link 2
 ![link2](https://github.com/mandarius-dev/arm_3d_model/blob/main/media/link2.gif)
