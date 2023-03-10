@@ -40,10 +40,10 @@ The rectangular holes in the pieces are used to hold the servomotors.
 <img src="https://github.com/mandarius-dev/arm_3d_model/blob/main/media/full_assembly.gif" width="400" >
 
 #### Other models used:   
-[Gripper][grp]
-[Plastic berings model][bering]
-[GT2 gears][gear]
-[Raspberry plate][case]
+[Gripper][grp].
+[Plastic berings model][bering].
+[GT2 gears][gear].
+[Raspberry plate][case].
 
 
 [grp]: https://cults3d.com/en/3d-model/gadget/servo-gripper-for-robotic-arm-sg90-servo-gripper
