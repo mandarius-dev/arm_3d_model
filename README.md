@@ -10,6 +10,7 @@ Repositories:
 
 ## Content 
 This repository contains all the `blender` files along with the `std` files of the whole manipulator.
+<img src="https://github.com/mandarius-dev/arm_3d_model/blob/main/media/full_assembly.png" width="450" >
 
 If the models are 3D printed there will be a need to sand down some of the pices. 
 
