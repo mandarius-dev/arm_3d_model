@@ -39,13 +39,10 @@ The rectangular holes in the pieces are used to hold the servomotors.
 ### Full assembly
 <img src="https://github.com/mandarius-dev/arm_3d_model/blob/main/media/full_assembly.gif" width="400" >
 
-#### Models: 
+#### Other models used:   
 [Gripper][grp]
-
 [Plastic berings model][bering]
-
 [GT2 gears][gear]
-
 [Raspberry plate][case]
 
 
