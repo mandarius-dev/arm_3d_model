@@ -10,6 +10,7 @@ Repositories:
 
 ## Content 
 This repository contains all the `blender` files along with the `std` files of the whole manipulator.
+<img src="https://github.com/mandarius-dev/arm_3d_model/blob/main/media/full_assembly.png" width="450" >
 
 If the models are 3D printed there will be a need to sand down some of the pices. 
 
@@ -35,8 +36,10 @@ The rectangular holes in the pieces are used to hold the servomotors.
 ### Link 5 and 6
 <img src="https://github.com/mandarius-dev/arm_3d_model/blob/main/media/link_5_6.gif" width="400" >
 
+### Full assembly
+<img src="https://github.com/mandarius-dev/arm_3d_model/blob/main/media/full_assembly.gif" width="400" >
 
-### Models: 
+#### Other models used:   
 [Gripper][grp]
 
 [Plastic berings model][bering]
